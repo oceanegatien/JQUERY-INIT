@@ -1,6 +1,10 @@
 # JQUERY 101
 
-## Forkez le repo !
+## Forkez le repo puis le cloner
+## Installer les dépendance 
+```
+    npm install
+```
 ## Commit et push à chaque step !
 
 * Step 1 : Supprimer la div "#remove" au click sur le boutton '#removeDiv';
