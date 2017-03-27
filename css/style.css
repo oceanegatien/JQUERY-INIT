@@ -1,0 +1,46 @@
+body {
+  font-size: 18px;
+}
+
+.content{
+  margin-left: auto;
+  margin-right: auto;
+  width:80%;
+  display:flex;
+  justify-content: space-between;
+}
+
+.content div{
+  width:15%;
+  min-height: 5em;
+  text-align:center;
+  line-height: 4;
+  border-radius: 1em;
+}
+
+.yellow{
+  background: #ffba4e;
+}
+
+.remove{
+  background: #474747;
+  color:#fff;
+}
+
+.needText{
+  background: #53de47;
+}
+
+.content button{
+  background-color: #86aaff;
+  border:none;
+  color:#fff;
+  font-weight: 600;
+  padding:0.9em;
+  border-radius:0.5em;
+}
+
+.content input{
+  border:none;
+  border-bottom: 1px solid #86aaff;
+}
