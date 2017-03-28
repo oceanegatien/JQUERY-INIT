@@ -12,3 +12,7 @@ $("#removeDiv").click(function() {
 $('#setText').change(function() {
 	$('#needText').append($('#setText').val());
 });
+
+$('#setColor').click(function() {
+$('.yellow').css('background-color', 'red');
+});
